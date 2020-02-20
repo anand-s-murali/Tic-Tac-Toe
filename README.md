@@ -14,3 +14,6 @@ The minimax algorithm is a recursive finite lookahead algorithm in which the pla
 + Connect-4
 + Mancala
 + Penny Game
+
+# TODO
++ Add gui
